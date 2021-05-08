@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "appliesTo": "Packages/PlayFabEditorExtensions.unitypackage",
+      "taskLabel": "task-PlayFabEditorExtensions",
+      "type": "launch"
+    }
+  ]
+}
